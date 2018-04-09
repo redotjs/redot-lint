@@ -1,0 +1,29 @@
+{
+  "name": "redot-lint",
+  "version": "0.0.0",
+  "description": "Lint graphviz with redot",
+  "main": "redot-lint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redotjs/redot-lint.git"
+  },
+  "keywords": [
+    "graphviz",
+    "dot",
+    "lint",
+    "validate",
+    "redot"
+  ],
+  "author": "Christian Murphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redotjs/redot-lint/issues"
+  },
+  "homepage": "https://github.com/redotjs/redot-lint#readme",
+  "dependencies": {
+    "redot-message-control": "^0.1.1"
+  }
+}
