@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Lint graphviz with redot",
   "main": "redot-lint.js",
+  "files": ["redot-lint.js"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
